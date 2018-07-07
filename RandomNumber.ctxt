@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=RandomNumber
+comment0.text=\r\n\ Generates\ Random\ Numbers\ required\ in\ Game.\r\n\r\n\ @author\ (Nusrat\ Mojumder)\r\n\ @version\ (Version\:\ 1,\ Date\:\ 30.3.2018)\r\n
+comment1.params=
+comment1.target=RandomNumber()
+comment1.text=\r\n\ Default\ Constructor\ for\ objects\ of\ class\ RandomNumber\r\n
+comment2.params=minLimit\ maxLimit
+comment2.target=RandomNumber(int,\ int)
+comment2.text=\r\n\ User\ Defined\ Constructor\ for\ objects\ of\ class\ RandomNumber\r\n
+comment3.params=min\ max
+comment3.target=int\ generateRandomNumber(int,\ int)
+comment3.text=\r\n\ Randomly\ generate\ a\ number\ within\ a\ Range\ \r\n\ @param\ \ min\ is\ the\ minimum\ range\r\n\ @param\ \ max\ is\ the\ maximum\ range\r\n\ @return\ randomNum,\ a\ randomly\ generated\ number\r\n
+comment4.params=
+comment4.target=int\ getLowerLimit()
+comment4.text=\r\n\ Return\ the\ value\ of\ lower\ limit\ of\ range\r\n
+comment5.params=
+comment5.target=int\ getUpperLimit()
+comment5.text=\r\n\ Return\ the\ value\ of\ upper\ limit\ of\ range\r\n
+comment6.params=min
+comment6.target=void\ setLowerLimit(int)
+comment6.text=\r\n\ Setting\ the\ value\ of\ lower\ limit\ of\ range\r\n
+comment7.params=max
+comment7.target=void\ setUpperLimit(int)
+comment7.text=\r\n\ Setting\ the\ value\ of\ upper\ limit\ of\ range\r\n
+numComments=8
